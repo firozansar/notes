@@ -1,2 +1,0 @@
-# Beato Book
-

@@ -1,3 +1,0 @@
-defmodule Loop do
-
-end
